@@ -10,5 +10,21 @@ There are documents about courses
   Platform: Deep Learning AI
 
   [Course link](https://learn.deeplearning.ai/chatgpt-building-system)
-  
+
   Instructors: Andrew NG, Isa Fulford
+
+
+
+* ChatGPT Prompt Engineering for Developers
+
+
+   This course is about using ChatGPT, it's pirincipals, iterative development, capabilities and building Chat Bot.
+
+   Platform: Deep Learning AI
+
+   [Course Link](https://learn.deeplearning.ai/chatgpt-prompt-eng)
+
+   Instructors: Andrew NG, Isa Fulford
+
+
+
