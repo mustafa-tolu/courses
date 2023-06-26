@@ -27,4 +27,15 @@ There are documents about courses
    Instructors: Andrew NG, Isa Fulford
 
 
+* LangChain for LLM Application Development
+
+
+  This course about Open-source development framework for LLM applications.
+
+  Platform: Deep Learning AI
+
+  [Course Link](Link: https://learn.deeplearning.ai/langchain)
+
+  Instructors: Andrew NG, Harrison ..
+
 
